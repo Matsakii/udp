@@ -1,4 +1,5 @@
-# chmod 777 udpkill
+# readme
 
+chmod 777 udpkill
 
 ./udpkill
